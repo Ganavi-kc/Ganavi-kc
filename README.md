@@ -1,8 +1,8 @@
 # Hi, I'm Ganavi! 👋
 
-### Business Analyst | Data Analytics | Project Management
+### Project Analyst | Data Analytics | Project Management | Business Analysis
 
-I'm a Business Analyst with 3+ years of experience supporting IT operations, project delivery, process improvement, and data-driven decision-making across telecom and enterprise environments.
+I'm a Project Analyst with 3+ years of experience supporting IT operations, project delivery, process improvement, and data-driven decision-making across telecom and enterprise environments.
 
 I hold a Master's degree in Project Management with a concentration in Data Analytics from Northeastern University.
 
